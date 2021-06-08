@@ -1,5 +1,5 @@
 // Copyright 2021 NNTU-CS
-
+#include "alg.h"
 int gcd(int a, int b) {
     int с;
     if (a < b) {
